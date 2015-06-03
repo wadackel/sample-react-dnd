@@ -1,0 +1,27 @@
+{
+  "name": "sample-react-coffee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "tsuyoshiwada",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.7.5",
+    "cjsx-loader": "^2.0.1",
+    "classnames": "^2.1.2",
+    "coffee-loader": "^0.7.2",
+    "coffee-script": "^1.9.2",
+    "gulp": "^3.8.11",
+    "gulp-autoprefixer": "^2.3.0",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-ruby-sass": "^1.0.5",
+    "gulp-util": "^3.0.4",
+    "gulp-watch": "^4.2.4",
+    "node-libs-browser": "^0.5.2",
+    "webpack": "^1.9.10"
+  },
+  "dependencies": {
+    "react": "^0.13.3",
+    "react-dnd": "^1.1.1"
+  }
+}
